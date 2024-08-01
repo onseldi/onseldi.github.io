@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onseldi.github.io/sitemap.html.gz
+Sitemap: https://onseldi.github.io/app/sitemap.html.gz
+Sitemap: https://onseldi.github.io/assets/sitemap.html.gz
+Sitemap: https://onseldi.github.io/css/sitemap.html.gz
+Sitemap: https://onseldi.github.io/includes/sitemap.html.gz
+Sitemap: https://onseldi.github.io/item/sitemap.html.gz
+Sitemap: https://onseldi.github.io/src/sitemap.html.gz
